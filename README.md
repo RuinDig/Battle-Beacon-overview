@@ -1,6 +1,6 @@
 # Battle-Beacon-overview
 
-Blog：
+ブログ Blog：
 
 バトルビーコンあれこれ(2020.8.1) - blog-RuinDig
 
