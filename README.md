@@ -1,5 +1,15 @@
 # Battle-Beacon-overview
 
+Blog：
+
+バトルビーコンあれこれ(2020.8.1) - blog-RuinDig
+
+https://ruindig.hatenablog.jp/entry/ingress/20200801/battle-beacon 
+
+Battle Beacon summary(2020-08-01) - blog-RuinDig
+
+https://ruindig.hatenablog.jp/entry/en/ingress/20200801/battle-beacon
+
 # 日本語 Japanese
 
 バトルビーコンの見方の図。日本語と英語。内容は2020年8月1日時点。今後変更される可能性あり。
