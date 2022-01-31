@@ -1,4 +1,4 @@
-# Battle-Beacon-overview ver.1
+# Battle-Beacon-overview Version1
 
 ブログ Blog：
 
