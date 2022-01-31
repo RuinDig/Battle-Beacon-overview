@@ -4,7 +4,7 @@
 
 バトルビーコンあれこれ(2020.8.1) - blog-RuinDig
 
-https://ruindig.hatenablog.jp/entry/ingress/20200801/battle-beacon 
+https://ruindig.hatenablog.jp/entry/ingress/20200801/battle-beacon
 
 Battle Beacon summary(2020-08-01) - blog-RuinDig
 
