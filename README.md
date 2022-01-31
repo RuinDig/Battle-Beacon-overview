@@ -1,23 +1,25 @@
-# Battle-Beacon-overview ver.1
+# Battle-Beacon-overview ver.2
 
-ブログ Blog：
+ベリーレアバトルビーコンとレアバトルビーコンの見方の図。日本語と英語。内容は2022年2月1日時点。今後変更される可能性あり。
 
-バトルビーコンあれこれ(2020.8.1) - blog-RuinDig
+Battle Beacon overview infographics. English and Japanese. This is based on infomation as of February 1st, 2022. This system has possibility of change in the future.
 
-https://ruindig.hatenablog.jp/entry/ingress/20200801/battle-beacon
+## 日本語 Japanese
 
-Battle Beacon summary(2020-08-01) - blog-RuinDig
+### ベリーレアバトルビーコン
 
-https://ruindig.hatenablog.jp/entry/en/ingress/20200801/battle-beacon
+![Very Rare Battle Beacon-JP](https://user-images.githubusercontent.com/20723919/151804340-d226714c-efae-4281-afe3-d37a662f803f.png)
 
-# 日本語 Japanese
+### レアバトルビーコン
 
-バトルビーコンの見方の図。日本語と英語。内容は2020年8月1日時点。今後変更される可能性あり。
+![Rare Battle Beacon-JP](https://user-images.githubusercontent.com/20723919/151804363-88fe90a0-0940-4446-a806-7e6fb69aa38a.png)
 
-![Battle-Beacon-overview_JP](https://user-images.githubusercontent.com/20723919/124847870-b81f8180-dfd6-11eb-8cd7-d4b46e8c6b4c.png)
+## 英語 English
 
-# 英語 English
+### Very Rare Battle Beacon
 
-Battle Beacon overview infographics. This is based on infomation as of August 1st, 2020. This system has possibility of change in the future.
+![Very Rare Battle Beacon-EN](https://user-images.githubusercontent.com/20723919/151804820-4e7bbbec-1e15-4fd5-a877-99752fc459cd.png)
 
-![Battle-Beacon-overview_EN](https://user-images.githubusercontent.com/20723919/124847901-ca012480-dfd6-11eb-9e47-5b5e2a4dab40.png)
+### Rare Battle Beacon
+
+![Rare Battle Beacon-EN](https://user-images.githubusercontent.com/20723919/151804655-fef77528-a509-4fbf-896e-a76bb3ab7577.png)
