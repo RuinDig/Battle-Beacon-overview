@@ -8,18 +8,18 @@ Battle Beacon overview infographics. English and Japanese. This is based on info
 
 ### ベリーレアバトルビーコン
 
-![Very Rare Battle Beacon-JP](https://user-images.githubusercontent.com/20723919/151804340-d226714c-efae-4281-afe3-d37a662f803f.png)
+![Very Rare Battle Beacon-JP](https://user-images.githubusercontent.com/20723919/151823475-de055bc6-f96c-4e34-985a-a7712c1e0416.png)
 
 ### レアバトルビーコン
 
-![Rare Battle Beacon-JP](https://user-images.githubusercontent.com/20723919/151804363-88fe90a0-0940-4446-a806-7e6fb69aa38a.png)
+![Rare Battle Beacon-JP](https://user-images.githubusercontent.com/20723919/151823562-c9a2b8b9-5443-47ba-9356-90595c5d2bc4.png)
 
 ## 英語 English
 
 ### Very Rare Battle Beacon
 
-![Very Rare Battle Beacon-EN](https://user-images.githubusercontent.com/20723919/151804820-4e7bbbec-1e15-4fd5-a877-99752fc459cd.png)
+![Very Rare Battle Beacon-EN](https://user-images.githubusercontent.com/20723919/151823495-2e7e31e4-a8bf-44ba-9a28-0166b004120a.png)
 
 ### Rare Battle Beacon
 
-![Rare Battle Beacon-EN](https://user-images.githubusercontent.com/20723919/151804655-fef77528-a509-4fbf-896e-a76bb3ab7577.png)
+![Rare Battle Beacon-EN](https://user-images.githubusercontent.com/20723919/151823534-bee9871f-6728-47f9-85a7-92d70c8dcba3.png)
