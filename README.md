@@ -1,4 +1,4 @@
-# Battle-Beacon-overview ver.2
+# Battle-Beacon-overview Version2
 
 ベリーレアバトルビーコンとレアバトルビーコンの見方の図。日本語と英語。内容は2022年1月31日時点。今後変更される可能性あり。
 
