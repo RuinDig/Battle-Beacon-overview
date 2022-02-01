@@ -1,8 +1,8 @@
 # Battle-Beacon-overview ver.2
 
-ベリーレアバトルビーコンとレアバトルビーコンの見方の図。日本語と英語。内容は2022年2月1日時点。今後変更される可能性あり。
+ベリーレアバトルビーコンとレアバトルビーコンの見方の図。日本語と英語。内容は2022年1月31日時点。今後変更される可能性あり。
 
-Battle Beacon overview infographics. English and Japanese. This is based on infomation as of February 1st, 2022. This system has possibility of change in the future.
+Battle Beacon overview infographics. English and Japanese. This is based on infomation as of January 31st, 2022. This system has possibility of change in the future.
 
 ## 日本語 Japanese
 
