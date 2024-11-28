@@ -22,4 +22,4 @@ Battle Beacon overview infographics. English and Japanese. This is based on info
 
 ### Rare Battle Beacon
 
-![Rare Battle Beacon-EN](https://user-images.githubusercontent.com/20723919/151823534-bee9871f-6728-47f9-85a7-92d70c8dcba3.png)
+![Rare-Battle-Beacon_EN](https://github.com/user-attachments/assets/5ef20da8-a5b5-4e1a-8ccb-b9ed036eef4d)
